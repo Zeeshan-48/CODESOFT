@@ -157,7 +157,7 @@ bool functionthree()
 	}
 	 else if ( token=='o' && tie==false)
 	{
-		cout<<n1<<"WINS"<<endl;
+		cout<<n1<<" WINS"<<endl;
 	}
   	else cout<<" OPPS DWAW"<<endl;
   	
