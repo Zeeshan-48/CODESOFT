@@ -13,7 +13,6 @@ int main()
 	cout<<endl;
 	
 	do{
-		srand (0);
 		int variable=rand()%10 +1;
 		cout<<"ENTER ANY NUMBER BETWEEN 1-10   ";
 		cin>>inputuser;
